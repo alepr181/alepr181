@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudiando el CFGS de Desarrollo de Aplicaciones Web. Antes estudié el CFGM de Sistemas Microinformáticos y Redes.<br>🎯Mi objetivo es poder llegar a dedicarme a la programación profesionalmente. ¡Poco a poco, voy aprendiendo más!<br>🎮 Como hobby en mis tiempos libres, me encanta jugar videojuegos.</p>
+<p align="left">📚 Junior Web Developer.<br>🎯Mi objetivo es poder llegar a dedicarme a la programación profesionalmente. ¡Poco a poco, voy aprendiendo más!<br>🎮 Como hobby en mis tiempos libres, me encanta jugar videojuegos.</p>
 
 ###
 
