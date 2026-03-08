@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Junior Web Developer.<br>🎯Mi objetivo es poder llegar a dedicarme a la programación profesionalmente. ¡Poco a poco, voy aprendiendo más!<br>🎮 Como hobby en mis tiempos libres, me encanta jugar videojuegos.</p>
+<p align="left">📚 Junior Web Developer.<br>🎯¡En constante aprendizaje!<br>🎮 Como hobby en mis tiempos libres, me encanta jugar videojuegos.</p>
 
 ###
 
