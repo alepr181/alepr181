@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 Junior Web Developer.<br>🎯¡En constante aprendizaje!<br>🎮 Como hobby en mis tiempos libres, me encanta jugar videojuegos.</p>
+<p align="left">📚 Junior Web Developer.<br>🎯¡En constante aprendizaje!</p>
 
 ###
 
-<h2 align="left">Tecnologías que uso: (En crecimiento 👀)</h2>
+<h2 align="left">Tecnologías que uso:</h2>
 
 ###
 
